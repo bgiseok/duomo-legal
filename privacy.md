@@ -10,7 +10,7 @@ title: Duomo Privacy Policy
 [한국어](#ko) · [English](#en)
 
 
-Duomo는 설정, 홈 배치, 위젯 위치, 고른 배경화면을 기기 안에만 저장합니다. 계정, 서버, 광고, 자체 분석 도구가 없고 오류 보고도 자동으로 보내지 않습니다. 기기 안 이미지 처리와 결제에 쓰는 Google 라이브러리는 아래에 따로 적었습니다.
+Duomo는 설정, 홈 배치, 위젯 위치, 고른 배경화면을 기기 안에만 저장합니다. 계정, 서버, 광고, 자체 분석 도구가 없고 오류 보고도 자동으로 보내지 않습니다. 기기 안 이미지 처리에 쓰는 Google 라이브러리는 아래에 따로 적었습니다.
 
 ## 기기 안에서 쓰는 정보
 
@@ -29,13 +29,13 @@ Duomo는 설정, 홈 배치, 위젯 위치, 고른 배경화면을 기기 안에
 
 위젯 연결 승인과 기본 홈 앱 선택은 안드로이드가 관리합니다. 위젯을 만든 앱이 따로 설정이나 권한을 요구할 수 있습니다.
 
-## 결제(Duomo Pro)
+## 결제와 후원
 
-Duomo Pro는 Google Play에서 연간 구독 또는 평생 이용권으로 판매합니다. 결제는 Google Play가 처리하며 Duomo는 카드나 결제 정보를 보지 않습니다. Duomo는 기기의 Google Play에 이 Google 계정이 가진 Pro 상품이 무엇인지 묻고, 오프라인에서도 쓰도록 Pro 켜짐 여부만 기기에 저장합니다. 결제 자체에는 Google 개인정보처리방침이 적용됩니다. 구독은 Google Play › 결제 및 정기 결제에서 관리하거나 해지할 수 있습니다.
+Duomo는 모든 기능이 무료이며 앱 안에서 결제를 받지 않습니다. 개발자 후원은 앱 밖의 [후원 페이지](support.html)(Buy Me a Coffee)에서 원하는 사람만 할 수 있습니다. 후원 결제와 그때 입력하는 정보는 해당 서비스가 처리하고 그 서비스의 개인정보처리방침이 적용됩니다. 개발자는 그 서비스가 보여 주는 정보(후원자가 남긴 이름·메시지 등)만 볼 수 있으며, 이를 앱이나 다른 곳의 정보와 연결하지 않습니다.
 
 ## Google과 다른 앱
 
-Discover와 Google 검색은 설치된 Google 앱을 씁니다. 앱, 검색 결과, 기사, 위젯은 각 제공자의 네트워크 서비스와 계정을 쓸 수 있으며 그 앱의 정책이 적용됩니다. Duomo는 그 통신을 중계하거나 내용을 모으지 않습니다.
+Google 검색은 설치된 Google 앱을 씁니다. 앱, 검색 결과, 기사, 위젯은 각 제공자의 네트워크 서비스와 계정을 쓸 수 있으며 그 앱의 정책이 적용됩니다. Duomo는 그 통신을 중계하거나 내용을 모으지 않습니다.
 
 ## 내보내기, 문의, 삭제
 
@@ -53,7 +53,7 @@ Duomo 자체는 진단 정보를 올리지 않습니다(위 ML Kit 설명 참고
 
 # Privacy Policy
 
-Duomo stores settings, Home layout, widget placement, and selected wallpaper locally. It has no account system, backend, advertising, or analytics SDK of its own, and no automatic crash reporting. Google libraries it uses for on-device image processing and for purchases are described below.
+Duomo stores settings, Home layout, widget placement, and selected wallpaper locally. It has no account system, backend, advertising, or analytics SDK of its own, and no automatic crash reporting. Google libraries it uses for on-device image processing are described below.
 
 ## Data used on your device
 
@@ -72,13 +72,13 @@ Swipe down on Home opens notifications or Quick Settings through Android's stand
 
 Android controls widget-binding approval and Home-app selection. Providers can require separate setup or permissions.
 
-## Purchases (Duomo Pro)
+## Payments and support
 
-Duomo Pro is sold through Google Play as a yearly subscription or a one-time lifetime purchase. Google Play handles payment, and Duomo never sees your card or payment details. Duomo asks Google Play on the device which Pro products your Google account owns, and stores only a local on/off flag for Pro so it works offline. Google's privacy policy applies to the payment itself. Manage or cancel a subscription in Google Play › Payments & subscriptions.
+Every Duomo feature is free, and the app takes no payments. If you want to support the developer, you can do so outside the app on the [support page](support.html) (Buy Me a Coffee). That service handles the payment and any details you enter, under its own privacy policy. The developer sees only what the service shows (such as the name or message a supporter leaves) and never links it to the app or any other data.
 
 ## Google and other apps
 
-Discover and Google search use the installed Google app. Apps, search results, articles, and widgets may use their providers' network services and accounts. Those apps' policies and settings apply; Duomo does not proxy their traffic or collect their content.
+Google search uses the installed Google app. Apps, search results, articles, and widgets may use their providers' network services and accounts. Those apps' policies and settings apply; Duomo does not proxy their traffic or collect their content.
 
 ## Export, reports, and removal
 
