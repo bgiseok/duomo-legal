@@ -33,6 +33,10 @@ Duomo는 설정, 홈 배치, 위젯 위치, 고른 배경화면을 기기 안에
 
 Duomo는 모든 기능이 무료이며 앱 안에서 결제를 받지 않습니다. 개발자 후원은 앱 밖의 [후원 페이지](support.html)(Buy Me a Coffee)에서 원하는 사람만 할 수 있습니다. 후원 결제와 그때 입력하는 정보는 해당 서비스가 처리하고 그 서비스의 개인정보처리방침이 적용됩니다. 개발자는 그 서비스가 보여 주는 정보(후원자가 남긴 이름·메시지 등)만 볼 수 있으며, 이를 앱이나 다른 곳의 정보와 연결하지 않습니다.
 
+## 의견 보내기
+
+앱의 설정 › 도움말 › "문제 신고 · 의견 보내기"나 [제보 페이지](https://bgiseok.github.io/duomo/feedback.html)로 보낸 내용은 개발자의 Google 설문지(Google Forms)에 저장됩니다. 앱에서 열면 앱 버전, 기기 모델, 안드로이드 버전, 화면 크기가 함께 채워지며, 보내기 전에 지우거나 고칠 수 있습니다. 이 내용은 문제를 고치고 앱을 개선하는 데만 쓰고 다른 곳에 넘기지 않습니다. 연락처 칸은 선택이며, 지워 달라고 요청하면 해당 응답을 지웁니다. 보내기 전까지 앱은 아무것도 전송하지 않습니다.
+
 ## Google과 다른 앱
 
 Google 검색은 설치된 Google 앱을 씁니다. 앱, 검색 결과, 기사, 위젯은 각 제공자의 네트워크 서비스와 계정을 쓸 수 있으며 그 앱의 정책이 적용됩니다. Duomo는 그 통신을 중계하거나 내용을 모으지 않습니다.
@@ -75,6 +79,10 @@ Android controls widget-binding approval and Home-app selection. Providers can r
 ## Payments and support
 
 Every Duomo feature is free, and the app takes no payments. If you want to support the developer, you can do so outside the app on the [support page](support.html) (Buy Me a Coffee). That service handles the payment and any details you enter, under its own privacy policy. The developer sees only what the service shows (such as the name or message a supporter leaves) and never links it to the app or any other data.
+
+## Feedback
+
+What you send through Settings › Help › "Report a bug · Send feedback" or the [feedback page](https://bgiseok.github.io/duomo/feedback.html) is stored in the developer's Google Form (Google Forms). When opened from the app, the app version, device model, Android version and screen size are filled in; you can edit or remove them before sending. It is used only to fix problems and improve the app and is not shared. The contact field is optional, and we delete a response on request. Nothing is sent until you submit the form.
 
 ## Google and other apps
 

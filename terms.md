@@ -31,7 +31,7 @@ Duomo(이하 "앱")는 안드로이드 폰과 폴더블용 홈 화면(런처) �
 
 ## 4. 약관 변경과 문의
 
-약관을 바꾸면 이 문서와 앱 업데이트 안내로 알립니다. 문의는 [GitHub 이슈](https://github.com/bgiseok/duomo-legal/issues)로 받습니다.
+약관을 바꾸면 이 문서와 앱 업데이트 안내로 알립니다. 문의·버그 제보는 앱의 설정 › 도움말 › "문제 신고 · 의견 보내기"나 [제보 페이지](https://bgiseok.github.io/duomo/feedback.html)로 받습니다.
 
 이 약관은 대한민국 법을 따릅니다.
 
@@ -62,6 +62,6 @@ The app is provided as is. To the extent permitted by law, the developer is not 
 
 ## 4. Changes and contact
 
-We will announce changes to these terms here and in app update notes. Contact us via [GitHub issues](https://github.com/bgiseok/duomo-legal/issues).
+We will announce changes to these terms here and in app update notes. Contact us or report a bug via Settings › Help › "Report a bug · Send feedback" in the app, or the [feedback page](https://bgiseok.github.io/duomo/feedback.html).
 
 These terms are governed by the laws of the Republic of Korea.
