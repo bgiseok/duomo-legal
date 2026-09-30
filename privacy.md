@@ -37,6 +37,10 @@ Duomo는 모든 기능이 무료이며 앱 안에서 결제를 받지 않습니�
 
 앱의 설정 › 도움말 › "문제 신고 · 의견 보내기"나 [제보 페이지](https://bgiseok.github.io/duomo/feedback.html)로 보낸 내용은 개발자의 Google 설문지(Google Forms)에 저장됩니다. 앱에서 열면 앱 버전, 기기 모델, 안드로이드 버전, 화면 크기가 함께 채워지며, 보내기 전에 지우거나 고칠 수 있습니다. 이 내용은 문제를 고치고 앱을 개선하는 데만 쓰고 다른 곳에 넘기지 않습니다. 연락처 칸은 선택이며, 지워 달라고 요청하면 해당 응답을 지웁니다. 보내기 전까지 앱은 아무것도 전송하지 않습니다.
 
+## 웹사이트 방문 통계
+
+소개 사이트(bgiseok.github.io/duomo)는 방문 수를 세려고 [GoatCounter](https://www.goatcounter.com)를 씁니다. 쿠키를 쓰지 않고, 개인을 알아볼 수 있는 정보나 IP 주소를 저장하지 않습니다. 남는 것은 본 페이지, 들어온 경로(링크가 있던 사이트), 브라우저·운영체제 종류, 화면 크기, 대략적인 국가, 참여 버튼을 누른 횟수 같은 합계뿐입니다. 앱 안에서는 쓰지 않습니다.
+
 ## Google과 다른 앱
 
 Google 검색은 설치된 Google 앱을 씁니다. 앱, 검색 결과, 기사, 위젯은 각 제공자의 네트워크 서비스와 계정을 쓸 수 있으며 그 앱의 정책이 적용됩니다. Duomo는 그 통신을 중계하거나 내용을 모으지 않습니다.
@@ -83,6 +87,10 @@ Every Duomo feature is free, and the app takes no payments. If you want to suppo
 ## Feedback
 
 What you send through Settings › Help › "Report a bug · Send feedback" or the [feedback page](https://bgiseok.github.io/duomo/feedback.html) is stored in the developer's Google Form (Google Forms). When opened from the app, the app version, device model, Android version and screen size are filled in; you can edit or remove them before sending. It is used only to fix problems and improve the app and is not shared. The contact field is optional, and we delete a response on request. Nothing is sent until you submit the form.
+
+## Website statistics
+
+The Duomo website (bgiseok.github.io/duomo) uses [GoatCounter](https://www.goatcounter.com) to count visits. It sets no cookies and stores no IP address or other information that identifies you. Only totals are kept: pages viewed, the referring site, browser and OS type, screen size, approximate country, and how often the join buttons are clicked. It is not used inside the app.
 
 ## Google and other apps
 
