@@ -25,7 +25,7 @@ Duomo는 설정, 홈 배치, 위젯 위치, 고른 배경화면을 기기 안에
 
 ## 선택 기능
 
-홈에서 아래로 쓸어내리면 안드로이드 표준 상태바 권한으로 알림이나 빠른 설정을 엽니다. Duomo에는 접근성 서비스가 없고 다른 앱의 화면을 읽지 않습니다.
+홈에서 아래로 쓸어내리면 안드로이드 표준 상태바 권한으로 알림이나 빠른 설정을 엽니다. '홈 두 번 탭으로 화면 끄기'를 켜면 안드로이드 접근성 서비스('Duomo 제스처')를 씁니다. 이 서비스는 화면을 끄거나 알림창을 여는 동작만 하고, 접근성 이벤트를 받지 않으며 화면 내용을 읽거나 다른 앱을 지켜보지 않습니다. 설정에서 끄면 바로 멈춥니다.
 
 알림 배지(선택): 시스템 설정에서 '알림 접근'을 허용하면 앱 아이콘에 알림 개수를 빨간 숫자로 보여 줍니다. Duomo는 어느 앱에 알림이 몇 개 있는지만 기기 안에서 세며, 알림의 제목·내용은 읽거나 저장하거나 기기 밖으로 보내지 않습니다. 허용하지 않아도 다른 기능은 그대로 쓸 수 있고, 설정 › 제스처 및 검색에서 배지를 끄거나 시스템 설정에서 접근을 언제든 해제할 수 있습니다.
 
@@ -78,7 +78,7 @@ Duomo stores settings, Home layout, widget placement, and selected wallpaper loc
 
 ## Optional access
 
-Swipe down on Home opens notifications or Quick Settings through Android's standard status bar permission. Duomo has no accessibility service and does not read other apps' screens.
+Swipe down on Home opens notifications or Quick Settings through Android's standard status bar permission. If you turn on 'Double-tap Home to turn off the screen', Duomo uses an Android accessibility service ('Duomo gestures'). It only performs the lock-screen and open-shade actions, receives no accessibility events, and does not read screen content or observe other apps. It stops as soon as you turn it off in Settings.
 
 Notification badges (optional): if you allow 'Notification access' in system settings, Duomo shows a red count on app icons. Duomo only counts how many notifications each app has, on your device; it does not read, store or transmit their titles or content. Everything else works without it, and you can turn badges off in Settings › Gestures & Search or revoke access in system settings at any time.
 
