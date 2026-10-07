@@ -13,9 +13,9 @@ Duomo는 한 사람이 만드는 광고 없는 안드로이드 런처입니다. 
 
 Duomo가 마음에 들었다면 커피 한 잔으로 응원해 주세요. 후원금은 Duomo를 더 좋게 만드는 데 씁니다.
 
-**[💛 카카오페이로 후원하기](https://qr.kakaopay.com/Ej7pbNwm65aa09589)** · **[☕ Buy Me a Coffee(해외 카드)](https://buymeacoffee.com/bgiseok)**
+**[💛 카카오페이로 커피 한 잔 (2,900원)](https://qr.kakaopay.com/Ej7pbNwm65aa09589)** · **[☕ Buy Me a Coffee(해외 카드)](https://buymeacoffee.com/bgiseok)**
 
-- 카카오페이는 송금 링크입니다. 금액은 직접 정하고, 한 번에 끝납니다.
+- 카카오페이는 송금 링크입니다. 커피 한 잔 값 2,900원이 미리 적혀 있고(보내기 전에 바꿀 수 있습니다), 한 번에 끝납니다.
 - 후원은 선택입니다. 후원하지 않아도 Duomo의 모든 기능을 똑같이 쓸 수 있습니다.
 - 후원은 대가 없는 선물이며, 후원으로 앱 기능이 열리지 않습니다.
 - 카드 결제와 환불은 Buy Me a Coffee가 처리합니다. 카카오페이 송금은 카카오페이 약관을 따릅니다.
