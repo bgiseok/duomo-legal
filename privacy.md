@@ -9,8 +9,9 @@ title: Duomo Privacy Policy
 
 [한국어](#ko) · [English](#en)
 
+시행일: 2026년 10월 30일
 
-Duomo는 설정, 홈 배치, 위젯 위치, 고른 배경화면을 기기 안에만 저장합니다. 계정, 서버, 광고, 자체 분석 도구가 없고 오류 보고도 자동으로 보내지 않습니다. 기기 안 이미지 처리에 쓰는 Google 라이브러리는 아래에 따로 적었습니다.
+Duomo(이하 "앱")는 **열린컴퓨터**(이하 "운영자")가 제공합니다. Duomo는 설정, 홈 배치, 위젯 위치, 고른 배경화면을 기기 안에만 저장합니다. 계정, 서버, 광고, 자체 분석 도구가 없고 오류 보고도 자동으로 보내지 않습니다. 기기 안 이미지 처리에 쓰는 Google 라이브러리는 아래에 따로 적었습니다.
 
 ## 기기 안에서 쓰는 정보
 
@@ -29,15 +30,17 @@ Duomo는 설정, 홈 배치, 위젯 위치, 고른 배경화면을 기기 안에
 
 알림 배지(선택): 시스템 설정에서 '알림 접근'을 허용하면 앱 아이콘에 알림 개수를 빨간 숫자로 보여 줍니다. Duomo는 어느 앱에 알림이 몇 개 있는지만 기기 안에서 세며, 알림의 제목·내용은 읽거나 저장하거나 기기 밖으로 보내지 않습니다. 허용하지 않아도 다른 기능은 그대로 쓸 수 있고, 설정 › 제스처 및 검색에서 배지를 끄거나 시스템 설정에서 접근을 언제든 해제할 수 있습니다.
 
+세워 두기 음악 타일(선택): 같은 '알림 접근'으로 지금 재생 중인 음악 앱의 곡 이름·가수·앨범 그림을 받아 타일에 보여 주고, 타일의 재생·멈춤·이전·다음 버튼을 그 앱에 전달합니다. 이 정보는 화면에 그리는 데만 쓰며 저장하거나 기기 밖으로 보내지 않습니다.
+
 위젯 연결 승인과 기본 홈 앱 선택은 안드로이드가 관리합니다. 위젯을 만든 앱이 따로 설정이나 권한을 요구할 수 있습니다.
 
-## 결제와 후원
+## 결제(Duomo Pro)
 
-Duomo는 모든 기능이 무료이며 앱 안에서 결제를 받지 않습니다. 개발자 후원은 앱 밖의 [후원 페이지](support.html)(Buy Me a Coffee)에서 원하는 사람만 할 수 있습니다. 후원 결제와 그때 입력하는 정보는 해당 서비스가 처리하고 그 서비스의 개인정보처리방침이 적용됩니다. 개발자는 그 서비스가 보여 주는 정보(후원자가 남긴 이름·메시지 등)만 볼 수 있으며, 이를 앱이나 다른 곳의 정보와 연결하지 않습니다.
+Duomo Pro 평생권은 **Google Play 결제**로만 판매합니다. 카드 번호 같은 결제 정보는 Google이 처리하며 운영자는 받지 않습니다. 앱은 Pro 기능을 열기 위해 Google Play 결제 라이브러리에서 구매한 상품, 구매 상태, 구매 확인 토큰을 기기 안에서 확인하고, 7일 무료 체험을 세기 위해 처음 실행한 시각과 무료 출시 기간에 설치했는지를 기기 안에 저장합니다. 이 정보는 운영자의 서버로 보내지 않습니다(서버가 없습니다). 운영자는 Google Play Console에서 Google이 판매자에게 제공하는 주문 정보(주문 번호, 상품, 결제 금액, 국가 등)를 볼 수 있으며, 이는 환불·문의 처리와 법령에 따른 거래 기록 보관에만 씁니다.
 
 ## 의견 보내기
 
-앱의 설정 › 도움말 › "문제 신고 · 의견 보내기"나 [제보 페이지](https://bgiseok.github.io/duomo/feedback.html)로 보낸 내용은 개발자의 Google 설문지(Google Forms)에 저장됩니다. 앱에서 열면 앱 버전, 기기 모델, 안드로이드 버전, 화면 크기가 함께 채워지며, 보내기 전에 지우거나 고칠 수 있습니다. 이 내용은 문제를 고치고 앱을 개선하는 데만 쓰고 다른 곳에 넘기지 않습니다. 연락처 칸은 선택이며, 지워 달라고 요청하면 해당 응답을 지웁니다. 보내기 전까지 앱은 아무것도 전송하지 않습니다.
+앱의 설정 › 도움말 › "문제 신고 · 의견 보내기"나 [제보 페이지](https://bgiseok.github.io/duomo/feedback.html)로 보낸 내용은 운영자의 Google 설문지(Google Forms)에 저장됩니다. 앱에서 열면 앱 버전, 기기 모델, 안드로이드 버전, 화면 크기가 함께 채워지며, 보내기 전에 지우거나 고칠 수 있습니다. 이 내용은 문제를 고치고 앱을 개선하는 데만 쓰고 다른 곳에 넘기지 않습니다. 연락처 칸은 선택이며, 지워 달라고 요청하면 해당 응답을 지웁니다. 보내기 전까지 앱은 아무것도 전송하지 않습니다.
 
 ## 웹사이트 방문 통계
 
@@ -49,13 +52,25 @@ Google 검색은 설치된 Google 앱을 씁니다. 앱, 검색 결과, 기사, 
 
 ## 내보내기, 문의, 삭제
 
-배치 백업 파일은 백업에서 저장을 고르고 위치를 정할 때만 만들어집니다. 파일에는 설치된 앱, 폴더 이름, 프로필 정보, 배치 설정이 들어 있을 수 있고 사진은 들어 있지 않습니다. 공유하기 전에 확인하세요.
+백업 파일은 설정 › 백업에서 저장을 고르고 위치를 정할 때만 만들어집니다. 파일에는 설치된 앱, 폴더 이름, 프로필 정보, 배치 설정과 함께 꾸미기 설정, 고른 배경·잠금화면·세워 두기 사진, 메모 위젯에 쓴 글이 들어 있습니다. 결제·체험 기록은 들어 있지 않습니다. 파일은 저장한 곳에만 있고 앱이 어디로도 보내지 않으니, 다른 사람과 공유하기 전에 확인하세요.
 
 Duomo 자체는 진단 정보를 올리지 않습니다(위 ML Kit 설명 참고). 문의에 직접 첨부하는 스크린샷이나 로그에는 개인정보가 담길 수 있으니 먼저 확인하세요.
 
-앱을 지우거나 저장공간을 비우면 Duomo의 설정, 사진, 위젯 연결이 지워집니다. 내보낸 파일은 저장한 곳에 남습니다.
+앱을 지우거나 저장공간을 비우면 Duomo의 설정, 사진, 위젯 연결이 지워집니다. 내보낸 파일은 저장한 곳에 남습니다. 평생권 구매 기록은 Google 계정에 남아 다시 설치해도 '구매 복원'으로 돌아옵니다.
 
-문의: [GitHub 이슈](https://github.com/bgiseok/duomo-legal/issues)
+설문지 응답은 처리가 끝나면 지우며, 주문 정보는 「전자상거래 등에서의 소비자보호에 관한 법률」에 따라 대금 결제·재화 공급 기록 5년, 소비자 불만·분쟁 처리 기록 3년 동안 보관한 뒤 지웁니다.
+
+## 이용자의 권리
+
+이용자는 운영자가 가진 자신의 정보(설문지 응답, 주문 관련 문의 기록)를 보거나 고치거나 지우거나 처리를 멈춰 달라고 아래 연락처로 요청할 수 있습니다. 운영자는 지체 없이 처리하고 결과를 알립니다.
+
+## 운영자와 개인정보 보호책임자
+
+- 운영자: 열린컴퓨터 (대표 변무현)
+- 개인정보 보호책임자: 변무현
+- 문의: duomokor@gmail.com · [GitHub 이슈](https://github.com/bgiseok/duomo-legal/issues)
+
+이 방침을 바꾸면 이 페이지와 앱 업데이트 안내로 알립니다.
 
 ---
 
@@ -63,7 +78,9 @@ Duomo 자체는 진단 정보를 올리지 않습니다(위 ML Kit 설명 참고
 
 # Privacy Policy
 
-Duomo stores settings, Home layout, widget placement, and selected wallpaper locally. It has no account system, backend, advertising, or analytics SDK of its own, and no automatic crash reporting. Google libraries it uses for on-device image processing are described below.
+Effective: October 30, 2026
+
+Duomo (the "app") is provided by **열린컴퓨터** (the "operator"). Duomo stores settings, Home layout, widget placement, and selected wallpaper locally. It has no account system, backend, advertising, or analytics SDK of its own, and no automatic crash reporting. Google libraries it uses for on-device image processing are described below.
 
 ## Data used on your device
 
@@ -82,15 +99,17 @@ Swipe down on Home opens notifications or Quick Settings through Android's stand
 
 Notification badges (optional): if you allow 'Notification access' in system settings, Duomo shows a red count on app icons. Duomo only counts how many notifications each app has, on your device; it does not read, store or transmit their titles or content. Everything else works without it, and you can turn badges off in Settings › Gestures & Search or revoke access in system settings at any time.
 
+Stand music tile (optional): with the same 'Notification access', Duomo receives the title, artist and album art of the music app that is playing and shows them on the tile; the tile's play, pause, previous and next buttons are passed to that app. This information is only drawn on screen; it is not stored or sent off your device.
+
 Android controls widget-binding approval and Home-app selection. Providers can require separate setup or permissions.
 
-## Payments and support
+## Payments (Duomo Pro)
 
-Every Duomo feature is free, and the app takes no payments. If you want to support the developer, you can do so outside the app on the [support page](support.html) (Buy Me a Coffee). That service handles the payment and any details you enter, under its own privacy policy. The developer sees only what the service shows (such as the name or message a supporter leaves) and never links it to the app or any other data.
+The Duomo Pro lifetime pass is sold only through **Google Play billing**. Google handles payment details such as card numbers; the operator never receives them. To unlock Pro features, the app checks on your device the purchased product, purchase state and purchase token from the Google Play Billing Library, and it stores on your device the time you first opened the app (to count the 7-day free trial) and whether it was installed during the free launch period. None of this is sent to the operator (there is no server). In Google Play Console the operator can see the order information Google provides to sellers (order number, product, amount, country and so on), used only to handle refunds and inquiries and to keep transaction records required by law.
 
 ## Feedback
 
-What you send through Settings › Help › "Report a bug · Send feedback" or the [feedback page](https://bgiseok.github.io/duomo/feedback.html) is stored in the developer's Google Form (Google Forms). When opened from the app, the app version, device model, Android version and screen size are filled in; you can edit or remove them before sending. It is used only to fix problems and improve the app and is not shared. The contact field is optional, and we delete a response on request. Nothing is sent until you submit the form.
+What you send through Settings › Help › "Report a bug · Send feedback" or the [feedback page](https://bgiseok.github.io/duomo/feedback.html) is stored in the operator's Google Form (Google Forms). When opened from the app, the app version, device model, Android version and screen size are filled in; you can edit or remove them before sending. It is used only to fix problems and improve the app and is not shared. The contact field is optional, and we delete a response on request. Nothing is sent until you submit the form.
 
 ## Website statistics
 
@@ -102,10 +121,22 @@ Google search uses the installed Google app. Apps, search results, articles, and
 
 ## Export, reports, and removal
 
-A layout export is created only when you choose Save in Backup and select a destination. It can reveal installed apps, folder names, profile metadata, and layout preferences. Photos are excluded. Review it before sharing.
+A backup file is created only when you choose Save in Settings › Backup and select a destination. Along with installed apps, folder names, profile metadata and layout preferences, it contains your customization settings, the background, lock screen and Stand mode photos you picked, and the text in memo widgets. Purchase and trial records are not included. The file stays only where you saved it and the app sends it nowhere; review it before sharing it with anyone.
 
 Duomo itself uploads no diagnostics (see the ML Kit note above). Screenshots and logs you manually attach to issues may contain personal information, widget content, account names, or work data. Review them first.
 
-Uninstalling or clearing storage removes Duomo's local settings, photos, and widget bindings. Exported files remain where you saved them. Android and device vendors may provide their own diagnostics independently of Duomo.
+Uninstalling or clearing storage removes Duomo's local settings, photos, and widget bindings. Exported files remain where you saved them. Your lifetime pass stays with your Google account and comes back with "Restore purchase" after reinstalling. Android and device vendors may provide their own diagnostics independently of Duomo.
 
-Contact: [GitHub issues](https://github.com/bgiseok/duomo-legal/issues)
+Feedback responses are deleted once handled. Order information is kept as required by the Korean Act on Consumer Protection in Electronic Commerce: payment and supply records for 5 years and complaint and dispute records for 3 years, then deleted.
+
+## Your rights
+
+You can ask the operator, using the contact below, to see, correct, delete or stop processing the information it holds about you (feedback responses and order-related inquiries). The operator will act without delay and tell you the result.
+
+## Operator and privacy officer
+
+- Operator: 열린컴퓨터 (representative 변무현)
+- Privacy officer: 변무현
+- Contact: duomokor@gmail.com · [GitHub issues](https://github.com/bgiseok/duomo-legal/issues)
+
+We will announce changes to this policy here and in app update notes.
