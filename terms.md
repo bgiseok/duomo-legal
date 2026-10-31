@@ -9,7 +9,7 @@ title: Duomo Terms of Use
 
 [한국어](#ko) · [English](#en)
 
-시행일: 2026년 10월 30일
+시행일: 2026년 10월 31일
 
 Duomo(이하 "앱")는 **열린컴퓨터**(이하 "운영자")가 제공하는 안드로이드 폰과 폴더블용 홈 화면(런처) 앱입니다. 앱을 설치하거나 쓰면 이 약관에 동의한 것으로 봅니다.
 
@@ -30,7 +30,7 @@ Duomo(이하 "앱")는 **열린컴퓨터**(이하 "운영자")가 제공하는 �
 - 가격은 무료 체험 7일 안에 결제하면 ₩6,900, 그 뒤에는 ₩12,800입니다. 한국 밖에서는 Google Play가 그 나라 통화로 표시한 금액을 따릅니다.
 - 결제는 Google Play 결제로만 이루어지며 Google Play 이용약관이 함께 적용됩니다.
 - 같은 Google 계정으로 로그인한 다른 기기에서도 앱의 '구매 복원'으로 평생권을 쓸 수 있습니다.
-- 무료 출시 기간에 앱을 설치해 실행한 기기는 Pro를 평생 무료로 씁니다(기기 안에 남은 기록 기준). 앱 데이터를 지우거나 새 기기로 옮겨 기록이 사라진 경우에는 운영자에게 문의할 수 있습니다.
+- 무료 출시 기간(Duomo 1.0.42.2 이하)부터 쓰던 기기도 판매 버전으로 업데이트한 때부터 7일 무료 체험이 시작됩니다.
 
 ## 4. 청약철회와 환불
 
@@ -68,7 +68,7 @@ Duomo(이하 "앱")는 **열린컴퓨터**(이하 "운영자")가 제공하는 �
 
 # Duomo Terms of Use
 
-Effective: October 30, 2026
+Effective: October 31, 2026
 
 Duomo (the "app") is a home screen launcher for Android phones and foldables provided by **열린컴퓨터** (the "operator"). By installing or using the app, you agree to these terms.
 
@@ -89,7 +89,7 @@ Duomo (the "app") is a home screen launcher for Android phones and foldables pro
 - The price is KRW 6,900 if you buy within the 7-day free trial and KRW 12,800 after that. Outside Korea, the amount shown by Google Play in your currency applies (USD 6.90 and USD 12.80 in the United States).
 - Payment is made only through Google Play billing, and the Google Play Terms of Service also apply.
 - You can use the lifetime pass on other devices signed in to the same Google account with "Restore purchase" in the app.
-- Devices that installed and opened the app during the free launch period get Pro free for life (based on the record kept on the device). If that record was lost because app data was cleared or you moved to a new device, you can contact the operator.
+- Devices that used Duomo during the free launch (1.0.42.2 or earlier) also start the 7-day free trial when they update to the paid version.
 
 ## 4. Withdrawal and refunds
 
